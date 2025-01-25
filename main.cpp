@@ -7,7 +7,10 @@ using namespace std;
 
 int main() {
 
+int Camino = 0;
+    
 cout << "Hola git"; 	
+cin >> Camino;
 
     return 0;
 }
