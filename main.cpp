@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-cout << "Hola git"; 	
+cout << "Hola traje esto desde el compu unu"; 	
 
     return 0;
 }
