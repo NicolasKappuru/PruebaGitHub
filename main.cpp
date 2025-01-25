@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
 cout << "Hola traje esto desde el compu unu"; 	
-
+  
     return 0;
 }
 
